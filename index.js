@@ -1,5 +1,5 @@
 const sum = (a, b) => {
-  return a + b;
+  return a - b;
 };
-console.log("new commit")
+console.log("fake result")
 module.exports = sum;
